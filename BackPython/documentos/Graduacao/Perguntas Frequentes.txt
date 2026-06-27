@@ -1,0 +1,133 @@
+1. Qual é a diferença entre os cursos de Ciência da Computação e de Engenharia de Computação da UFRGS?
+O curso de Ciência da Computação da UFRGS oferece uma formação mais voltada ao desenvolvimento de software, tanto básico como aplicativo. Ele oferece uma maior especialização em temas como sistemas de informação, bancos de dados, engenharia de software, compiladores, linguagens de programação e inteligência artificial. Este curso dá apenas uma formação básica em matérias de hardware, como arquitetura e organização de computadores e circuitos lógicos.
+
+O curso de Engenharia de Computação da UFRGS dá uma formação completa e aprofundada para o desenvolvimento de hardware, tanto de sistemas de propósitos gerais como de circuitos e sistemas para aplicações específicas. Além disto, ele dá uma formação mais sólida para o desenvolvimento de sistemas onde existe forte interação entre partes de hardware e software, em áreas como comunicação de dados e automação. Em função de sua base matemática diferenciada, o curso também prepara melhor profissionais para atuação em áreas que envolvam processamento digital de sinais (em comunicação de dados e em processamento de voz e imagens, por exemplo). Este curso dá apenas uma formação básica em matérias mais específicas de software, como compiladores, bancos de dados e engenharia de software.
+
+Ambos os cursos permitem formação especializada em determinadas áreas de interface entre os mesmos, como sistemas operacionais, redes de computadores, processamento paralelo e distribuído e computação gráfica.
+
+Ambos os cursos dão formação idêntica nos fundamentos da Computação, em matérias como arquitetura e organização de computadores, algoritmos, estruturas de dados, lógica, teoria da computação e linguagens de programação.
+
+2. Quantas vagas os cursos oferecem no Concurso Vestibular?
+Para verificar o número de vagas dos cursos, acessar a página de Ingresso.
+
+3. Qual é a duração dos cursos?
+O curso de Ciência da Computação tem duração de 4,5 anos (9 semestres) e exige um total de 216 créditos, sendo 152 créditos obrigatórios, 36 créditos eletivos, 8 créditos complementares e 20 créditos convertidos (trabalho de conclusão).
+
+O curso de Engenharia de Computação tem duração de 5 anos (10 semestres) e exige um total de 234 créditos, sendo 154 créditos obrigatórios, 48 créditos eletivos, 12 créditos complementares e 20 créditos convertidos (trabalho de conclusão).
+
+4. Quais são os pesos das provas no Concurso Vestibular?
+Prova	Ciência da Computação	Engenharia de Computação
+Literatura de Língua Portuguesa	1	1
+Língua Estrangeira Moderna	2	2
+Língua Portuguesa e Redação	3	3
+Física	2	2
+Biologia	1	1
+Química	1	1
+Geografia	1	1
+História	1	1
+Matemática	3	3
+
+5. Qual é o turno e o local de oferecimento dos cursos?
+A grande maioria das disciplinas de ambos os cursos (Ciência da Computação e Engenharia da Computação) são oferecidas nos turnos da manhã (preferencialmente) e da tarde. Algumas poucas disciplinas têm turmas à noite. Não é possível concluir os cursos apenas com aulas noturnas.
+
+As aulas do curso de Ciência da Computação ocorrem essencialmente no Campus do Vale da UFRGS, com raras exceções fora deste campus. Já as aulas curso de Engenharia Computação ocorrem tanto no Campus do Vale como no Campus Centro da UFRGS.
+
+6. Onde se pode obter mais informações sobre os cursos?
+Mais informações sobre o curso podem ser obtidas através:
+E-mail dos cursos
+Ciência da Computação: comgrad-cic-l@inf.ufrgs.br
+Engenharia da Computação: comgrad-ecp@ufrgs.br
+
+Secretarias:
+Instituto de Informática
+Fone: 3308-6162
+E-mail: Angela Regina
+Departamento de Engenharia Elétrica (apenas para Engenharia da Computação)
+Fone: 3308-3293
+E-mail: secdelet@iee.ufrgs.br
+
+7. Quais são as regras para transferência interna a partir de outros cursos da UFRGS?
+Para participar da Transferência Interna por Recálculo de Média do Vestibular, a média do candidato requerente será calculada tendo como base os pesos das provas no Concurso Vestibular do curso pleiteado, no ano que o habilitou ao curso ao qual está atualmente vinculado. A média do candidato deve ter sido recalculada de acordo com os pesos das provas no Vestibular adotados pele curso respectivo (Ciência da Computação ou Engenharia de Computação). A cada ano, as Comissões de Graduação fixarão o número de vagas disponíveis para transferência interna.
+Mais detalhes sobre a transferência pode ser encontrado no site da PROGRAD.
+
+8. É possível transferência a partir de outra universidade?
+Essa modalidade de transferência é chamada de “Transferência Voluntária”.
+O aluno deve ter sido aprovado nas disciplinas que compõem os dois primeiros semestres de seu curso de origem (ou o primeiro ano, no caso de curso seriado ao anual). O curso de origem deverá ser reconhecido ou ter autorização de funcionamento pelo MEC e ser idêntico (mesma denominação) ou assemelhado ao curso pretendido, conforme disposto na Resolução nº 34/2011 do CEPE. Mais detalhes sobre o “extravestibular” pode ser encontrado aqui.
+
+CIC-1. Qual é o perfil do profissional formado pelo curso?
+As diretrizes curriculares dos cursos da área da Computação estabelem um perfil geral dos egressos de cursos de Bacharelado e Licenciatura, bem como específicos.
+
+Os cursos de Bacharelado e de Licenciatura da área de Computação devem assegurar a formação de profissionais dotados
+
+1. de consciência e conhecimento das questões sociais, profissionais, legais, éticas, políticas e humanísticas bem como, das questões culturais e ambientais envolvidas no uso das tecnologias de computação e no atendimento e na antecipação estratégica das necessidades da sociedade;
+
+2. de visão crítica e criativa na identificação e resolução de problemas;
+
+3. da capacidade de atuar de forma empreendedora, abrangente e cooperativa no atendimento às demandas sociais da região onde atua, do Brasil e do mundo;
+
+4. de utilizar racionalmente os recursos disponíveis de forma transdisciplinar visando o acesso participativo e universal do cidadão brasileiro ao conhecimento;
+
+5. da compreensão das necessidades da contínua atualização e aprimoramento de suas competências e habilidades;
+
+6. da capacidade de reconhecer a importância do pensamento computacional na vida cotidiana, como também sua aplicação em outros domínios e ser capaz de aplicá-lo em circunstâncias apropriadas; e
+
+7. da capacidade de atuar em um mundo globalizado do trabalho.
+
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e para as vocações das Instituições, espera-se que os egressos dos cursos de Bacharelado em Ciência da Computação:
+
+1. Possuam sólida formação em Ciência da Computação e Matemática que os capacitem a construir aplicativos de propósito geral, ferramentas e infraestrutura de software de sistemas de computação e de sistemas embarcados, gerar conhecimento científico e inovação e que os incentivem a estender suas competências à medida que a área se desenvolve;
+
+2. Possuam visão global e interdisciplinar de sistemas e entendem que esta visão transcende os detalhes de implementação dos vários componentes e os conhecimentos dos domínios de aplicação;
+
+3. Conheçam a estrutura dos sistemas de computação e os processos envolvidos na sua construção e análise;
+
+4. Conheçam os fundamentos teóricos da área de Computação e como esses fundamentos influenciam na prática;
+
+5. Sejam reflexivos na construção de sistemas de computação por entender que eles atingem direta ou indiretamente as pessoas;
+
+6. Possuam a capacidade de criar soluções para problemas complexos que têm muitas relações entre domínios de conhecimento e de aplicação;
+
+7. Reconheçam que é fundamental a inovação e a criatividade e entendam as perspectivas de negócios e oportunidades relevantes.
+
+CIC-2. Quais são as áreas de atuação do profissional formado pelo curso?
+A principal área de atuação do Bacharel de Ciência da Computação é a indústria de software, onde ele pode atuar como:
+analista de sistema
+arquiteto de software
+desenvolvedor/programador/engenheiro de software
+engenheiro de teste software
+gerente ou empresário de TI.
+As áreas de aplicação são bastante amplas, incluindo aplicações móveis, jogos eletrônicos aplicações científicas, e software básico como banco de dados.
+O egresso pode atuar em empresas ou como profissional liberal. Também, pode seguir a carreira acadêmica, envolvendo-se com pesquisa.
+
+ECP-1. Qual é o perfil do profissional formado pelo curso?
+O curso forma profissionais capacitados a atuar em áreas tecnológicas que exigem o conhecimento combinado da Engenharia Elétrica e da Computação, tais como:
+comunicação de dados e redes de computadores
+automação industrial e controle de processos
+automação comercial
+circuitos e sistemas integrados e microeletrônica
+microprocessadores e suas aplicações
+processamento de sinais digitais (imagens, voz)
+sistemas eletrônicos e de computação embutidos em equipamentos para eletrônica automotiva e médica, telefonia celular, etc.
+O aluno receberá formação sólida em Matemática e Física e nos fundamentos da Engenharia Elétrica e da Computação. Ele poderá especificar, projetar, configurar, instalar, testar e dar manutenção a todos os equipamentos que contenham partes de hardware e software, tanto aqueles de propósitos gerais (computadores, redes de computadores) como os voltados a aplicações específicas.
+
+ECP-2. Quais são as áreas de atuação do profissional formado pelo curso?
+As principais áreas de atuação são:
+indústria eletro-eletrônica e de equipamentos informáticos
+indústria de software
+prestação de serviços no projeto, configuração, instalação e manutenção de equipamentos eletrônicos computacionais, de redes de computadores e de comunicação de dados e de sistemas de automação
+empresas que necessitam instalação, operação e manutenção de redes de computadores e/ou de transmissão de dados e/ou sistemas de automação comercial ou industrial.
+O egresso pode atuar em empresas ou como profissional liberal.
+
+ECP-3. Qual é a diferença entre os cursos de Engenharia de Computação e de Engenharia Elétrica da UFRGS?
+O Curso de Engenharia Elétrica tem por objetivo proporcionar ao aluno uma formação profissional básica de engenheiro eletricista, atuando em um espectro mais amplo do que o Engenheiro de Computação. Dentre as áreas de atuação dos egressos do Curso de Engenharia Elétrica pode-se mencionar: supervisão, coordenação, planejamento, manutenção, projeto e especificações de materiais elétricos e eletrônicos, equipamentos eletrônicos em geral, sistemas de comunicação e telecomunicações, sistemas de medição e controle elétrico e eletrônico, geração, transmissão, distribuição e utilização da energia elétrica, equipamentos, materiais e máquinas elétricas, seus serviços afins e correlatos.
+
+O Curso de Engenharia de Computação enfatiza os aspectos de especificação e projeto de sistemas eletrônicos, mais comumente conhecidos como hardware, para aplicações que envolvam o uso de equipamentos de informática. Dentre estes sistemas pode-se destacar: sistemas eletrônicos integrados (ASICs), periféricos de computadores (controladores de disco rígido, placas multimídia, etc.), equipamentos eletrônicos para redes de computadores (tais como roteadores e multiplexadores), processadores, etc.
+
+O Curso de Engenharia de Computação enfatiza um aspecto que é fundamental no desenvolvimento de equipamentos computacionais modernos: a integração entre o software e o hardware, ou seja, entre os componentes eletrônicos, tais como os microprocessadores, e os programas de computador que executam nestes componentes. Por exemplo, a qualidade de um sistema multimídia depende não somente de um hardware capaz de processar um grande conjunto de informações de imagem e som, mas também de um software adequado de configuração e de uso do equipamento.
+
+Em função do crescente uso de sistemas computacionais nas mais diversas aplicações, apesar do enfoque do curso de Engenharia de Computação ser conceitualmente mais restrito, são inúmeras as possíveis áreas de atuação de egressos do curso de Engenharia de Computação. Estes podem atuar no desenvolvimento de sistemas computacionais para automação industrial, tais como controladores lógico-programáveis, barramentos industriais, etc. Em aplicações em sistemas automotivos, tais como sistemas de navegação para veículos, os quais envolvem processadores capazes de processar em tempo-real as informações recebidas, bem como softwares de gerência e apresentação de informações cartográficas, determinação de rotas, etc.
+
+Similarmente ao curso de Engenharia Elétrica, o curso de Engenharia de Computação fornece sólida formação em Matemática e Física e em conceitos fundamentais de Circuitos Elétricos e Eletrônicos. Ao contrário do curso de Engenharia Elétrica, o curso de Engenharia de Computação da UFRGS dá uma formação completa e aprofundada para o desenvolvimento de software, com especial ênfase na interação entre o hardware e software, em áreas como comunicação de dados e automação industrial.
+
+ECP-4. O curso segue o currículo mínimo da Engenharia?
+A LDB (Leis de Diretrizes Básicas da Educação) extinguiu o conceito de currículo mínimo para todos os cursos. O curso de Engenharia de Computação não segue o currículo mínimo da Engenharia Elétrica, nem o da Engenharia em geral.

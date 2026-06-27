@@ -1,0 +1,98 @@
+<div class="page">
+
+    <div class="card">
+
+        <h2 class="title">Upload de Excel</h2>
+
+        <div class="controls">
+            <div class="field">
+                <label>Algoritmo</label>
+                <select id="algoritmo-select">
+                    <option value="0">RAG(Retrieval-Augmented)</option>
+                    <option value="1">Resposta-Direta</option>
+                </select>
+            </div>
+
+            <div class="field">
+                <label>Modelo</label>
+                <select id="llm-select">
+                    <option value="0">llama3.2:3b</option>
+                    <option value="1">qwen2.5:3b</option>
+                    <option value="2">phi3.5:3.8b</option>
+                    <option value="3">smollm2:1.7b</option>
+                    <option value="4">mistral:7b</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="upload-area">
+            <input type="file" (change)="onFileChange($event)" accept=".xlsx, .xls" />
+            <button (click)="enviar()">Enviar</button>            
+        </div>
+
+        <div class="stats">
+            <span>Porcentagem Correta:</span>
+            <strong>{{ porcentagem | number:'1.0-2' }}%</strong>
+        </div>
+
+        <div class="progress-container">
+            <div class="progress-bar" [style.width.%]="progresso" [style.backgroundColor]="getCorProgresso()">
+                {{ progresso | number:'1.0-0' }}%
+            </div>
+        </div>
+
+        @if(registros.length > 0 && atual <= total){
+        <p class="status">
+            Processando {{ atual }} de {{ total }}
+        </p>
+        } 
+        @else if (registros.length > 0 ) {
+        <p class="status">
+            Processamento completo.
+        </p>} 
+
+        @if(registros.length > 0){
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Classificação</th>
+                        <th>Pergunta</th>
+                        <th>Alternativa Correta</th>
+                        <th>Alternativa LLM</th>
+                        <th>Acertou</th>
+                        <th>Processado</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for(r of registros; track r; let i = $index){
+                    <tr>
+                        <td>{{ r.classificacao }}</td>
+                        <td>{{ r.pergunta }}</td>
+                        <td>{{ r.alternativaCorreta }}</td>
+                        <td>{{ r.alternativaLLM }}</td>
+                        <td [class]="r.acertou ? 'acertou' : 'errou'">
+                            @if(r.alternativaLLM == ''){
+                            <span>...</span>
+                            }
+                            @else{
+                            {{ r.acertou ? '✔' : '✖' }}
+                            }
+                        </td>
+                        <td class="status">
+                            @if(i < atual - 1){<span>✔</span>}
+                            @else if (i === atual - 1) {<span>⏳</span>}
+                            @else if (i > atual - 1) {<span>...</span>}
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+        }
+        <br>
+        @if (atual > total) {
+        <button id="download-btn" (click)="downloadExcel()"> Download</button>
+        }
+    </div>
+</div>

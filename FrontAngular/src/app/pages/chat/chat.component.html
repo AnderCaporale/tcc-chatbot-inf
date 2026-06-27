@@ -1,0 +1,86 @@
+<div class="page">
+    <header>
+        <img src="logo-inf.GIF" alt="">
+        <div class="title"> 
+            <h1>Pergunte à IA – INF/UFRGS</h1>
+            <p>Escolha o algoritmo e o modelo de linguagem antes de enviar</p>
+        </div>
+    </header>
+
+    <div class="chat-wrap">
+        <div class="chat-card">
+            <div class="chat-header">
+                <div class="chat-title">
+                    <strong>Chatbot do INF</strong>
+                    <span>Faça perguntas em relação ao curso de Ciência da Computação</span>
+                </div>
+
+                <div class="controls">
+                    <label style="font-size:12px;color:var(--muted)">Algoritmo</label>
+                    <select id="algoritmo-select">
+                        <option value="0">RAG (Retrieval-Augmented)</option>
+                        <option value="1">Resposta Direta</option>
+                    </select>
+
+                    <label style="font-size:12px;color:var(--muted)">Modelo</label>
+                    <select id="llm-select">
+                        <option value="1">qwen2.5:3b</option>
+                        <option value="0">llama3.2:3b</option>
+                        <option value="2">phi3.5:3.8b</option>
+                        <option value="3">smollm2:1.7b</option>
+                        <option value="4">mistral:7b</option>
+                    </select>
+                    <label style="font-size:12px;color:var(--muted)">Id</label>
+                    <input type="number" name="userId" id="userId" min="0" value="1">
+                    <button class="send-btn" id="limpar_hist" title="Limpar Histórico" [disabled]="isLoading" (click)="limpar_historico()">
+                        <img src="limpeza-de-dados.png" alt="" style="filter: invert(1);">
+                    </button>
+                </div>
+            </div>
+
+            <!-- mensagens -->
+            <div class="messages" #messages>
+                @for(msg of messagesList; track msg){
+                    <div class="{{ msg.role === 'user' ? 'msg-container-user' : 'msg-container-assistant' }}">
+                        <div class="{{ 'msg ' + msg.role }}" [innerHTML]="msg.text">
+                            
+                        </div>
+
+                        <div class="meta" [style.display]="msg.role === 'user' ? 'flex' : ''"
+                            [style.justifyContent]="msg.role === 'user' ? 'flex-end' : ''">
+                            {{ msg.role === 'user' ? 'Você' : 'Assistente' }} — {{ msg.time }}
+                        </div>
+                    </div>
+                }
+                
+                <!-- typing -->
+                @if(isLoading){
+                    <div class="typing">
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                        <span class="dot"></span>
+                    </div>
+                }
+               
+            </div>
+
+            <!-- composer -->
+            <div class="composer">
+                <div class="input-area">
+                    <div class="input-row">
+                        <textarea id="mensagem-textarea" placeholder="Digite sua mensagem e pressione Enter..." [value]="" (keydown.enter)="onEnter($event)"></textarea>
+
+                        <button class="send-btn" id="send" title="Enviar mensagem" [disabled]="isLoading" (click)="enviar()">
+                            Enviar
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p> Anderson Caporale Anan </p>
+        <p> Instituto de Informática da UFRGS </p>
+    </footer>
+</div>

@@ -1,0 +1,40 @@
+Descrição
+A Computação está cada vez mais presente na vida de todos. Os dispositivos capazes de computar estão hoje não somente na mesa do escritório ou nos laboratórios de escolas, mas no nosso bolso, na cozinha, no automóvel, na roupa. Robôs (máquinas físicas ou inteligências artificiais, como os chamados bots) realizam cada vez mais tarefas do nosso dia a dia. Grande parte da informação que a humanidade possui hoje está armazenada digitalmente.
+
+Tanto o mundo produtivo quanto o cotidiano são hoje movidos por tecnologias digitais, e isso tende a se acentuar fortemente no futuro. Para desenvolver plenamente suas habilidades e conseguir utilizar a tecnologia digital de forma segura, eficiente, consciente e ética, o cidadão precisa compreender o “mundo digital”, composto por ferramentas de hardware e software, da mesma forma que entende o “mundo real” por meio das ciências da natureza e das ciências humanas. A tecnologia é compreendida através da ciência, e a ciência que explica o mundo digital é a Computação. Portanto, hoje a compreensão do mundo, uma das competências básicas da BNCC (Base Nacional Comum Curricular), só pode ser plenamente desenvolvida inserindo-se fundamentos da Computação na Educação Básica.
+
+A Computação não mudou apenas o mundo, mas também a nossa forma de resolver problemas. O termo “pensamento computacional” denota o conjunto de habilidades cognitivas necessárias para compreender, definir, modelar, comparar, solucionar, automatizar e analisar problemas (e soluções) de forma metódica e sistemática, através da construção de algoritmos. O pensamento computacional é visto hoje como uma das habilidades necessárias ao cidadão do século XXI. A robótica é um ótimo meio para ensinar o pensamento computacional, visto que os alunos conseguem visualizar, interagir e conectar diferentes elementos de maneira lúdica, facilitando muito o aprendizado de construções abstratas presentes no pensamento computacional.
+
+O Curso de Licenciatura em Computação e Robótica Educativa, na modalidade a distância, propõe-se a constituir um espaço de construção de conhecimentos interdisciplinares que contemplem os saberes da Computação, da Robótica Educacional e da Educação, com o objetivo de formar profissionais qualificados tanto para o ensino de Computação quanto para utilização de tecnologias e ferramentas digitais e Robótica Educacional em diferentes formas e contextos para auxiliar no processo de ensino-aprendizagem em qualquer área do conhecimento.
+O egresso do curso de Licenciatura em Computação e Robótica Educativa estará apto ao exercício da docência em Computação na Educação Básica Regular, Profissional, Tecnológica e Corporativa e noutras etapas e modalidades de educação; bem como a atuar no projeto, desenvolvimento, avaliação e gestão de sistemas educacionais e de tecnologias contemporâneas, relacionadas à Computação e à Robótica articuladas à Educação.
+Para mais detalhes, acessar a página do curso em https://www.ufrgs.br/computacaorobotica
+
+Estrutura do Curso
+Diretrizes Curriculares Nacionais (DCN)
+Para que os cursos de graduação sejam autorizados e reconhecidos pelo Ministério da Educação (MEC), devem ser seguidas as Diretrizes Curriculares Nacionais, documentos específicos para cada curso ou área de atuação.
+
+No caso da Computação, estas diretrizes estão na Resolução nº 5, de 16 de novembro de 2016. Estão previstos neste documento as diretrizes para os cursos de bacharelado em Ciência da Computação, em Sistemas de Informação, em Engenharia de Computação, em Engenharia de Software e licenciatura em Computação, portanto abrangendo o curso de Licenciatura em Computação e Robótica Educativa.
+
+Além disso, por se tratar de um curso de Licenciatura, o curso também atende às Diretrizes Curriculares Nacionais para a Formação Inicial de Professores para a Educação Básica e a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica (BNC-Formação). Assim, o curso oferece sólida formação em Educação e sobre os fundamentos da Computação, utilizando a Robótica como indutor para promover a aprendizagem.
+
+Projeto Pedagógico do Curso
+O curso é desenvolvido na modalidade a distância, sendo suas atividades desenvolvidas, em sua maioria, nesta modalidade. Além disso, o curso é desenvolvido dentro da UFRGS na forma de Programa Especial de Graduação (PEG).
+
+Portanto, além de atender às Diretrizes Curriculares Nacionais para a Computação e para a Formação Inicial de Professores, o curso também obedece às normas da UFRGS para os PEGs e as normas do ensino na modalidade EaD.
+
+Em atendimentos a estas normas e para potencializar as atividades acadêmicas, estão previstas atividades presenciais, realizadas em regra nos Polos de atendimento presenciais escolhidos pelos alunos quando do ingresso no curso.
+
+O Projeto Pedagógico do Curso apresenta os dados descritivos do curso e descreve a concepção do curso, sua estrutura curricular e administrativa e o processo de avaliação do aprendizado.
+
+Currículo
+Cada turma do curso deverá avançar em uma sequência seriada com 8 (oito) etapas, desenvolvidas semestralmente, onde os estudantes deverão participar de disciplinas previstas para cada etapa.
+
+Além das disciplinas, estão previstas atividades práticas a serem realizadas durante todas as etapas do curso, na forma de Laboratórios de Prática Docente. Ao final, nos três últimos semestres, estão previstas atividades de Estágio Obrigatório. Estas atividades práticas são desenvolvidas em escolas, escolhidas pelos alunos, com acompanhamento de professores do curso.
+
+Além de realizar as atividades de ensino do tipo disciplinas e atividades práticas, os estudantes deverão desenvolver atividades complementares à sua formação e participar de atividades de extensão. Ao final, os estudantes ainda devem realizar um Trabalho de Conclusão de Curso.
+
+Grade Curricular
+O curso tem duração de 8 semestre e o prazo para integralização curricular é de 4 anos. A carga horária total do curso está distribuída conforme preconizado na BNC-Formação, e atende à carga horária mínima do Grupo I – base comum, Grupo II – Conteúdos específicos e Grupo III – Práticas pedagógicas e Estágio Obrigatório.
+
+O Currículo e a Grade Curricular listam as Atividades de Ensino previstas para o curso e sua posição nas etapas do curso.
+Informações adicionais sobre o curso podem ser encontradas na página do curso. (Link: https://www.ufrgs.br/computacaorobotica/curso/)

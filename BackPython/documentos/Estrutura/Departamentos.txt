@@ -1,0 +1,11 @@
+Departamentos
+O Instituto de Informática possui dois departamentos que são os responsáveis pelas atividades de ensino. Cada departamento oferece um conjunto de disciplinas integrantes dos currículos dos cursos de Ciência da Computação e Engenharia de Computação bem como disciplinas introdutórias para vários outros cursos da Universidade. Os departamentos são regidos por uma Chefia de Departamento e um Colegiado.
+
+Departamento de Informática Aplicada
+
+Chefia e Colegiado
+Professores do departamento
+Departamento de Informática Teórica
+
+Chefia e Plenário
+Professores do departamento

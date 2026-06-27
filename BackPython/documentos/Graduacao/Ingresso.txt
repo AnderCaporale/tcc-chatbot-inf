@@ -1,0 +1,9 @@
+Anualmente, são admitidos 100 novos estudantes em Ciência da Computação e 60 em Engenharia da Computação. O ingresso se dá através do Concurso Vestibular da UFRGS ou do Sistema de Seleção Unificada (Sisu). A distribuição das vagas ocorre de acordo com o que é estabelecido pela UFRGS. Atualmente, a distribuição das vagas se dá da seguinte forma.
+
+Ciência da Computação	Engenharia da Computação
+1º Semestre	2º Semestre	Total	1º Semestre	2º Semestre	Total
+Vestibular	53	17	70	21	21	42
+Sisu	22	8	30	9	9	18
+Total	75	25	100	30	30	60
+
+Para mais informações, consulte a página do Concurso Vestibular da UFRGS e do Sisu na UFRGS.

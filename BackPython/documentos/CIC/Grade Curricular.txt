@@ -1,0 +1,19 @@
+Grade de Disciplinas
+A grade de disciplinas curricular é o meio mais fácil de visualizar o currículo do curso. Essa informação pode ser encontrada nas páginas da UFRGS em duas formas distintas: na forma de Currículo, com as disciplinas organizadas por etapas, ou na forma de Grade Curricular, com as disciplinas organizadas de forma gráfica e com as informações de pré-requisitos e liberadoras.
+
+Diretrizes Curriculares Nacionais
+Todos os cursos de graduação autorizados ou reconhecidos pelo Ministério da Educação (MEC) devem seguir normas que padronizam os currículos a fim de garantir a qualidade na formação do profissional. Estas normas são chamadas de Diretrizes Curriculares.
+O curso de Ciência da Computação está sob a “Diretriz Curricular de Cursos da Área de Computação e Informática”.
+
+Currículo
+O currículo do curso abrange uma sequência de disciplinas ordenadas de forma semestral, em uma seriação aconselhada. O curso estrutura-se em 9 semestres: até o sexto semestre o discente cursa disciplinas obrigatórias básicas da área de computação. Nos três últimos semestres o aluno cursa disciplinas eletivas e desenvolve um trabalho de conclusão de curso. Além disso, durante o curso, o aluno deve realizar atividades complementares.
+
+Do primeiro ao terceiro semestre, o currículo apresenta uma formação básica em Matemática (Cálculo I e II, Análise Combinatória, Álgebra Linear, Probabilidade e Estatística, Cálculo Numérico) e Computação (Algoritmos e Programação, Estruturas de Dados, Arquitetura de Computadores, Teoria da Computação, entre outros).
+
+Do quarto semestre até o sexto, é apresentada uma formação tecnológica abrangente, versando sobre tópicos como Bancos de Dados, Sistemas Operacionais, Redes de Computadores, Sistemas Distribuídos, Compiladores, Inteligência Artificial, Engenharia de Software, Modelos de Linguagens de Programação e Computação Gráfica. Além disso, há um aprofundamento em tópicos teóricos, como Linguagens Formais, Análise de Algoritmos e Semântica de Linguagens de Programação. Na sexta etapa, a disciplina de Empreendimentos em Informática discorre sobre questões relacionadas ao mercado de trabalho e a atuação profissional.
+
+A partir da sétima etapa, o curso oferece disciplinas eletivas (escolhidas pelo aluno) que complementam a formação científica e tecnológica, aprofundando os conhecimentos nos temas de seu interesse. Além de créditos obtidos por cursar disciplinas, é requerido que o aluno registre participação em atividades de formação complementar. Essas atividades, realizadas ao longo do curso, contabilizam créditos complementares, e incluem estágios, bolsas, participação em eventos, participação em atividades de extensão, disciplinas adicionais, etc.
+
+Para a obtenção do diploma, além de obter os créditos em disciplinas obrigatórias, créditos em disciplinas eletivas e créditos complementares, o aluno deve desenvolver e apresentar um trabalho de conclusão de curso sob orientação de um professor da UFRGS.
+
+A carga horária total do curso é de 3240 horas, e a média semestral é de cerca de 24 créditos. O curso é diurno, havendo atividades principalmente na manhã e na tarde. As aulas ocorrem no Instituto de Informática e no Instituto de Matemática, ambos localizados no Campus do Vale da Universidade. As disciplinas apresentam caráter teórico, baseado fundamentalmente em aulas expositivas, e caráter prático, através de atividades em laboratório.

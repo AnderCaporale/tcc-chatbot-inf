@@ -1,0 +1,18 @@
+Grupos de Pesquisa
+Atualmente existem os seguintes grupos de pesquisa:
+
+Bioinformática e Biologia Computacional
+Efeitos da Radiação em Sistemas de Hardware
+Computação Gráfica, Processamento de Imagens e Interação
+Concepção de Circuitos Integrados
+Ferramentas Computacionais para Projeto de Circuitos e Sistemas Integrados
+Theoretical Computer Science
+Inteligência Artificial
+Processamento Paralelo e Distribuído
+Redes de Computadores
+Robótica Inteligente e Visão Artificial
+Sistemas de Computação para E&P de Petróleo
+Sistemas Embarcados
+Telessaúde
+Teste e Projeto Visando o Teste de Sistemas de Hardware
+Tolerância a Falhas

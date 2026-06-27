@@ -1,0 +1,13 @@
+Estrutura
+O Instituto de Informática está estruturado da seguinte forma:
+
+Direção
+NAU
+Conselho
+Comissões
+Departamentos
+Pós-Graduação
+CEI – Centro de Empreendimentos em Informática
+DACOMP
+PET Computação
+Empresa Júnior IDE

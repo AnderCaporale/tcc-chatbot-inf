@@ -1,0 +1,33 @@
+PGMICRO
+O Programa de Pós-Graduação em Microeletrônica teve sua origem na proposta de um conjunto de Professores desta Universidade de concorrer no edital “Convite para Apresentação de Programas de Doutorado em Bioinformática e em Microeletrônica” formulado pela CAPES em abril do ano de 2002.
+Inicialmente a proposta foi apresentada no âmbito do Programa de Pós-Graduação em Ciência do Materiais da UFRGS e, como tal, foi uma das duas propostas em Microletrônica no país contempladas naquele edital. Contudo, a necessidade de se obter um Programa que contemplasse todas as linhas de pesquisa em Microeletrônica fez com que em 2003 o curso de Doutorado fosse reconhecido nesta Universidade e, a partir daí foi criado o Programa de Pós-Graduação em Microeletrônica.
+
+A natureza multidisciplinar da área e a necessidade da formação de recursos humanos com alta qualificação nos temas relacionados às micro- e nano-tecnologias exigiu a conjugação de pesquisadores/docentes de quatro unidades acadêmicas, são elas: Escola de Engenharia, Instituto de Informática, Instituto de Física e Instituto de Química. Cada uma destas unidades disponibiliza pesquisadores/docentes que focam nos seguintes temas:
+
+Engenharias e Informática
+Concepção de Circuitos Integrados;
+Ferramentas de CAD;
+Teste de Circuitos Integrados e Sistemas On-chip;
+Institutos de Física e de Química
+Processamento Físico-Químico;
+Dispositivos e Caracterização de Materiais Semicondutores;
+Nano-estruturas e Materiais para a Eletrônica Integrada.
+Para o desenvolvimento das atividades específicas de pesquisa do grupo onde atua o discente, o Programa oferece as facilidades experimentais, laboratoriais e condições de infra-estrutura das unidades acadêmicas a que pertencem os orientadores, sendo que colaboram com o PGMICRO os seguintes Laboratórios da UFRGS:
+
+Institutos de Física e de Química
+Laboratório de Microeletrônica do Instituto de Física;
+Laboratório de Implantação Iônica;
+Nano-estruturas e Materiais para a Eletrônica Integrada.
+Centro de Microscopia Eletrônica;
+Laboratório de Laser e Óptica;
+Laboratório de Filmes Finos;
+Laboratório de Superfícies e Interfaces Sólidas;
+Laboratório de Desenvolvimento de Ferramentas de CAD;
+Laboratórios de Projeto de Circuitos Integrados;
+Laboratório de Prototipação Rápida de Sistemas Eletrônicos;
+Laboratório de Sistemas Digitais;
+Laboratório de Caracterização e Teste de Dispositivos e Circuitos;
+Laboratório de Prototipação e Teste;
+Laboratório de Processamento de Sinais e Imagens;
+Laboratório de Traçadores Isotópicos;
+Atualmente, o Programa de Pós-Graduação em Microeletrônica (PGMICRO) conta com os cursos de Doutorado e de Mestrado (reconhecido em 2006, primeira turma 2007/1)

@@ -1,0 +1,8 @@
+Apresentação
+Os docentes do Instituto de Informática participam em três programas de pós-graduação: Programa de Pós-graduação em Computação – PPGC, Programa de Pós-Graduação em Microeletrônica – PGMicro e Programa de Pós-Graduação em Informática na Educação – PPGIE.
+
+O PPGC sedia vários grupos de pesquisa em praticamente todas as áreas da Computação. Conta com 53 professores e cerca de 300 estudantes de mestrado e de doutorado. Desde 1973, o PPGC graduou mais de 1500 mestres e cerca de 300 doutores. Atualmente é um dos cinco programas brasileiros classificados como de classe internacional pelo Ministério da Educação do Brasil, tendo obtido nota 7 (máxima) na última avaliação da CAPES/MEC.
+
+O PGMicro, de caráter multidisciplinar, envolve professores da Escola de Engenharia e dos Institutos de Física e Química, além do Instituto de Informática. Na informática atua principalmente nas áreas de Concepção de Circuitos Integrados, Ferramentas de CAD, Teste de Circuitos Integrados e Sistemas On-chip.
+
+O PPGIE promove a pesquisa sobre o desenvolvimento de métodos  educacionais modernos e é um centro de referência em educação a distância.

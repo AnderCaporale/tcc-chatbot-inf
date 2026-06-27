@@ -1,0 +1,15 @@
+Run Front Angular:
+npm install
+npm start
+
+
+Run Back Python:
+python -m venv .venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+
+venv(3.13.7)
+run servidor.py
+
+
+Run Ollama

@@ -1,0 +1,100 @@
+Projetos de Extensão
+
+Programa.ada
+Coordenador(a): Leticia dos Santos Machado
+Contato: leticia.machado@inf.ufrgs.br
+
+Comunidade Foco: Estudantes, ensino médio e graduação
+Local de Atuação: INF-UFRGS e comunidade
+
+Informações sobre o Projeto:
+Capacitar, integrar e divulgar as conquistas das mulheres da Computação; Promover atividades de cunho social e político para a comunidade externa e interna ao INF; Estimular o ingresso e a permanência das mulheres na informática.
+O Program.ada se torna muito relevante para que os ambientes tanto acadêmico quanto profissional se tornem mais receptivos e para que esse cenário se altere e tenhamos uma diversidade maior de gênero. Além disso, o grupo promove atividades de capacitação que façam com que as mulheres interessadas em Computação estejam mais preparadas para o mercado de trabalho. A relevância do Program.ada não se restringe, então, à comunidade da UFRGS. Nós buscamos apoiar, capacitar e dignificar a atuação das mulheres na Computação brasileira.
+
+Formação e Inovação em Negócios de Impacto Socioambiental
+Coordenador(a): Erika Fernandes Cota
+Contato: erika@inf.ufrgs.br
+
+Comunidade Foco: Empreendedores de impacto apoiados pelo CEI, comunidades periféricas
+Local de Atuação: INF-UFRGS e comunidade
+
+Informações sobre o Projeto:
+Sensibilizar e capacitar a comunidade acadêmica no tema de negócios de impacto socioambiental (NIS) através de quatro pilares: 1) interação com comunidades periféricas e populações sub-representadas para conhecimento e entendimento de desafios socioambientais que enfrentam; 2) prospecção e capacitação de potenciais empreendedores de impacto entre jovens acadêmicos; 3) co-criação (entre acadêmicos e comunidade) de soluções inovadoras para os desafios identificados e formatação de modelos de negócios de impacto; 4) desenvolvimento de negócios inovadores de base tecnológica
+
+FalaINF – Comunicação entre Sociedade e Instituto de Informática da UFRGS
+Coordenador(a): Anderson Rocha Tavares
+Contato: anderson.tavares@inf.ufrgs.br
+
+Comunidade Foco: Alunos de graduação e pós-graduação, professores, pesquisadores
+Local de Atuação: Instituto de Informática (Palestras) e Internet (Podcasts)
+
+Informações sobre o Projeto:
+O projeto visa aproximar o INF-UFRGS da sociedade civil, através da divulgação científica, da cultura empreendedora do Instituto e da discussão de temas relevantes da computação para a sociedade de forma ampla e inclusiva.
+
+LPC: Laboratório de Programação Competitiva
+Coordenador(a): Weverton Luis da Costa Cordeiro
+Contato: weverton.cordeiro@inf.ufrgs.br
+
+Comunidade Foco: Estudantes de Ensino Médio
+Local de Atuação: Instituto de Informática, Campus do Vale
+
+Informações sobre o Projeto:
+O projeto visa desenvolver nos estudantes a cultura de participação em competições de programação, fomentando o desenvolvimento técnico, a capacidade de raciocínio lógico, e a colaboração e trabalho em grupo para a resolução de problemas complexos. Foco em Estudantes de Ensino Médio, do Colégio de Aplicação da UFRGS (presencialmente) e IFPA Campus Itaituba (remoto, via youtube).
+
+Mais informações em https://www.inf.ufrgs.br/maratona/
+
+SOUSLESENS VOCABLES – Difusão e Desenvolvimento de WEB Semântica
+Coordenador(a): Joao Cesar Netto
+Contato: joao.netto@inf.ufrgs.br
+
+Comunidade Foco: Alunos de graduação e pós-graduação, educadores e profissionais
+Local de Atuação: Instituto de Informática – Laboratorios do prédio 43425
+
+Informações sobre o Projeto:
+O projeto visa promover a colaboração e a contribuição do público alvo no desenvolvimento de uma ferramenta de código aberto que visa tornar acessível tecnologias da web semântica, aprimorando suas funcionalidades e promovendo sua adoção em diferentes setores.
+Atividades:
+A) Realização de oficinas para capacitar alunos e profissionais no uso e desenvolvimento das ferramentas do SousLeSensVocables;
+B) Estabelecimento de parcerias com empresas ou instituições para promover a adoção e contribuição no desenvolvimento do SousLeSensVocables;
+C) Participação em eventos e conferências relacionados à web semântica e integração entre negócios e tecnologia da informação, divulgando o projeto e estabelecendo conexões com possíveis colaboradores.
+D) Desenvolvimento cooperativo com a equipe da ENIT (École Nationale d’Ingénieurs de Tarbes) – França
+
+Reconecta UFRGS
+Coordenador(a): Renato Perez Ribas
+Contato: renato.ribas@inf.ufrgs.br
+
+Comunidade Foco: Estudantes da UFRGS, escolas públicas, associações comunitárias.
+Local de Atuação: Porto Alegre
+
+Informações sobre o Projeto:
+Recondicionamento de computadores usados para empréstimo a estudantes da UFRGS. Cursos de inclusão digital.
+
+INF-Games
+Coordenador(a): Joel Luis Carbonera
+Contato: joel.carbonera@inf.ufrgs.br
+
+Comunidade Foco: sociedade em geral
+Local de Atuação: INF-UFRGS
+
+Informações sobre o Projeto:
+O projeto visa desenvolver junto à comunidade acadêmica, indústria e sociedade civil ações que promovam o desenvolvimento de jogos digitais e suas tecnologias, fomentando a educação, desenvolvimento técnico e cultural e colaborações em torno do tema.
+
+Tem como objetivo principal promover o desenvolvimento técnico de interessados em desenvolvimento de jogos digitais no Brasil e proporcionar um ambiente que incentive a colaboração entre diferentes setores da sociedade para o desenvolvimento de jogos digitais.
+
+Como objetivos específicos, podemos destacar:
+· Apresentar ao público-alvo palestras, seminários e oficinas oferecidos por estudantes, pesquisadores e desenvolvedores de jogos digitais.
+· Promover a colaboração de alunos e da sociedade para desenvolvimento de atividades relacionadas ao desenvolvimento de jogos digitais.
+· Utilizar a temática de desenvolvimento de jogos digitais para promover o aperfeiçoamento técnico de alunos e membros da comunidade externa.
+· Apresentar os jogos digitais como meio de desenvolvimento pessoal e social nos aspectos técnicos, artísticos e culturais.
+· Desenvolvimento de material didático relacionado ao desenvolvimento de jogos digitais.
+· Desenvolvimento de jogos digitais, incluindo jogos de cunho educativo e com temática cultural relevante.
+· Promoção de game jams envolvendo alunos e a comunidade externa.
+
+LoBoGames
+Coordenador(a): Renato Perez Ribas
+Contato: renato.ribas@inf.ufrgs.br
+
+Comunidade Foco: Escolas, associações.
+Local de Atuação: Porto Alegre
+
+Informações sobre o Projeto:
+Uso de jogos lógicos de tabuleiro, abstratos e de estratégia, como instrumento educacional para todas as idades.

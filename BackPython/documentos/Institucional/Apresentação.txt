@@ -1,0 +1,55 @@
+Apresentação
+O Instituto de Informática
+O INF – Instituto de Informática da Universidade Federal do Rio Grande do Sul, fundado em 9 de novembro de 1989, mas baseado numa atividade acadêmica sólida iniciada na década de 70, é reconhecido por sua excelência acadêmica, inovação e compromisso social.
+
+O corpo docente do INF é formado por mais de 70 professores doutores, constituindo um grupo diferenciado no Brasil, com grande abrangência de áreas de pesquisa, e uma equipe de servidores técnico-administrativos que dão suporte de forma muito qualificada às atividades acadêmicas de uma comunidade constituída por mais de 1.000 alunos de graduação e pós-graduação.
+
+Situado no Campus do Vale da UFRGS, o INF tem uma área física de excelência. Seus quatro prédios abrigam salas de aula, laboratórios de ensino, salas-laboratórios para pesquisas, salas de videoconferência, biblioteca especializada, centro de eventos e auditórios.
+
+Graduação e Pós-Graduação
+Os cursos de Ciência da Computação e Engenharia de Computação do INF têm sido avaliados diversas vezes como os melhores do país de acordo com avaliações do MEC e de órgãos independentes, como a Folha de São Paulo e a Editora Abril. Anualmente, eles recebem 160 estudantes que recebem sólida formação, incluindo estágios no exterior e dupla-diplomação em conjunto com reconhecidas universidades da Europa.
+
+O PPGC – Programa de Pós-Graduação em Computação é um dos programas de nível internacional da área de Computação no país, tendo obtido nota 7 (máxima) nas últimas avaliações da CAPES/MEC. Menos de uma dezena de programas de pós-graduação em Computação no Brasil tem esse conceito. Já formou mais de 1.600 mestres e 350 doutores ao longo de mais de 45 anos de existência. Seus docentes são reconhecidos internacionalmente, participando de projetos de grande impacto científico e tecnológico. A partir dos laboratórios do PPGC, foi iniciado o Pólo Tecnológico de TIC do Estado do Rio Grande do Sul nas décadas de 70 e 80.
+
+Docentes do INF também participam de outros dois programas da UFRGS: PGMICRO – Pós-Graduação em Microeletrônica e PPGIE – Pós-Graduação em Informática na Educação, que são os únicos programas interdisciplinares nestas áreas no país. Além de mestrado e doutorado, o INF oferece cursos abertos, de especialização presencial, a distância, e in company, em assuntos relacionados a suas áreas de atuação.
+
+Pesquisa
+A pesquisa e a inovação são atividades priorizadas no INF, onde os seguintes grupos de pesquisa investigam todas as áreas fundamentais da Computação:
+
+Bioinformática
+Computação Gráfica, Processamento de Imagens e Interação
+Concepção de Circuitos Integrados
+Ferramentas Computacionais para Projeto de Circuitos e Sistemas Integrados
+Fundamentos da Computação e Métodos Formais
+Inteligência Artificial
+Processamento Paralelo e Distribuído
+Redes de Computadores
+Robótica Inteligente e Visão Artificial
+Sistemas de Computação para E&P de Petróleo
+Sistemas Embarcados
+Telessaúde
+O financiamento dos grupos de pesquisa é prioritariamente obtido das agências de fomento federais e estaduais, mas também é mantido número significativo de projetos em parcerias com empresas como AES-Sul, HP, Microsoft, Petrobras, Samsung e RNP, assim como projetos financiados pela Comunidade Europeia.
+
+Fomento ao Empreendedorismo
+O CEI – Centro de Empreendimentos em Informática, criado em 1996, é uma das mais importantes incubadoras de empreendimentos e projetos na área de Tecnologia da Informação e Comunicação do sul do Brasil. O CEI-UFRGS vem incentivando a criação e o desenvolvimento de startups, apoiando e oferecendo suporte técnico a projetos de inovação tecnológica. A incubadora é integrada ao Instituto de Informática, promovendo muita sinergia e avanços tanto para os cursos quanto para as empresas.
+
+A incubadora oferece infraestrutura física e de apoio gerencial para o desenvolvimento de projetos de transferência de tecnologia e criação de novas empresas. O CEI ocupa uma área superior a 1.000 metros quadrados distribuídos em salas com acesso controlado, salas de reuniões e de treinamento para o desenvolvimento de interações com empresas. Na sua tarefa central de intermediação entre sociedade e Universidade, o CEI-UFRGS cumpre ainda o importante papel de prospecção e captação de projetos no mercado, cuja competência de desenvolvimento esteja contemplada pelo grupo de pesquisadores do Instituto de Informática.
+
+Interação com a Sociedade
+O INF teve papel fundamental na criação do Pólo Tecnológico do Rio Grande do Sul na área de TICs e mantém-se como maior centro de excelência em PD&I do sul do país nesta área. Além das empresas incubadas, o INF mantém convênios e projetos de transferência de tecnologia com várias empresas locais, nacionais e internacionais, e mantém-se em permanente interação com as instituições representativas da sociedade organizada, como ABINEE, ASSESPRO, SUCESU, SOFTSUL e FIERGS, através da participação de seus professores em seus conselhos ou através de convênios e parcerias estratégicas.
+
+Inserção Internacional
+No cenário internacional, o INF é uma das mais importantes instituições acadêmicas latino-americanas em Computação, em consequência da formação qualificada de seus professores-pesquisadores. Uma parte expressiva de seus professores concluiu doutorado em instituições americanas e europeias, além de desenvolver grande número de projetos de cooperação internacional, notadamente com França, Alemanha e Estados Unidos. O INF tem forte participação em diversos fóruns científicos internacionais: comitês editoriais de revistas, comitês de programa de conferências, diretorias, conselhos e grupos de trabalho de sociedades científicas.
+
+Continuamente, um grande número de pós-graduandos realiza estágios-sanduíche no exterior, em universidades e em centros de pesquisa de empresas líderes em TIC. Diversas teses e dissertações são conduzidas em cotutela, com a participação de co-orientadores de universidades do exterior.
+
+Antes mesmo do programa Ciência sem Fronteiras, estudantes de graduação do INF já realizavam anualmente estágios no exterior através de intercâmbios específicos com universidades da França, Alemanha e Holanda. Desde 2005, algumas centenas de alunos de graduação fizeram estágios no exterior. O INF também recebe muitos estudantes estrangeiros e, desde 2007, são concedidos duplos-diplomas a estudantes da UFRGS e do INPG (Grenoble, França). Mais recentemente, programa similar foi estabelecido com a Universidade Técnica de Berlim (Berlim, Alemanha).
+
+Missão
+O Instituto de Informática da Universidade Federal do Rio Grande do Sul (INF/UFRGS) é uma instituição dedicada ao ensino superior e à produção de conhecimento.
+
+Ele tem como missão formar profissionais de reconhecida qualificação, gerar conhecimento e tecnologia, e apoiar o desenvolvimento de produtos e empresas, compartilhando novos conhecimentos que beneficiem a sociedade.
+
+O INF busca, continuamente, consolidar-se como centro de excelência tanto em ensino de graduação e pós-graduação como em pesquisa científica e tecnológica, inserido na realidade brasileira, mas visando padrões internacionais de qualidade. Também serve à comunidade, através de atividades de extensão, e promove o empreendedorismo, a inovação tecnológica e o desenvolvimento econômico através do CEI – Centro de Empreendimentos em Informática.
+
+Dedicado primordialmente à Computação, o Instituto de Informática realiza cooperação interdisciplinar com outras unidades acadêmicas, indústrias e universidades no Brasil e no exterior.
